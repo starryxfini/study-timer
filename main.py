@@ -2,7 +2,7 @@ import time
 
 print("⋆｡study timer°✩")
 
-minutes = int(input("how many minutes do you want to study?"))
+minutes = int(input("how many minutes do you want to study? "))
 
 seconds = minutes * 60
 
