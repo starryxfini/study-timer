@@ -18,3 +18,5 @@ while end_time > datetime.now():
     
 
 print("\n  ˖.𖥔 ݁ time is up˖ ⊹good job! ࣪ ˖ ")
+
+# just a test to see if git FINALLY works
